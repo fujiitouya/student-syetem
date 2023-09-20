@@ -1,5 +1,4 @@
 # student-syetem
-A student system with ssm
 本系统是一个基于ssm+layui的学籍管理系统
 
 本系统具有三种用户：
